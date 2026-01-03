@@ -12,6 +12,7 @@ hydra_colorlog
 rich
 
 # Common utilities
+huggingface-hub==0.34.3
 numpy==1.23.5
 jupyter
 matplotlib
